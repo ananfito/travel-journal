@@ -3,7 +3,7 @@ export default [
         id: 1,
         title: "Lago di Como",
         location: "Italy",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        googleMapsUrl: "https://goo.gl/maps/GdvrYDrydMp3KNhw6",
         startDate: "28 Jun, 2015",
         endDate: "11 Jul, 2015",
         description: "Lake Como, also known as Lario, is a lake of glacial origin in Lombardy, Italy. It has an area of 146 square kilometres (56 sq mi), making it the third-largest lake in Italy, after Lake Garda and Lake Maggiore.",
@@ -85,7 +85,7 @@ export default [
     },
     {
         id: 8,
-        title: "La Sagrada Familia",
+        title: "La Sagrada Família",
         location: "Spain",
         googleMapsUrl: "https://goo.gl/maps/sxgak2wJZtE2oVpB9",
         startDate: "19 Jun, 2018",
@@ -111,7 +111,7 @@ export default [
         id: 10,
         title: "Taipei 101",
         location: "Taiwan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        googleMapsUrl: "https://goo.gl/maps/Aeyrd7eLx9J4XQ6S8",
         startDate: "29 Nov, 2019",
         endDate: "3 Dec, 2019",
         description: "Taipei 101, formerly known as the Taipei World Financial Center, is a skyscraper in Taipei, Taiwan. The building was officially classified as the world's tallest from its opening in 2004 until the 2009 completion of the Burj Khalifa in Dubai, UAE.",
@@ -135,7 +135,7 @@ export default [
         id: 12,
         title: "Bali",
         location: "Indonesia",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        googleMapsUrl: "https://goo.gl/maps/qWaHMsNB3AqGsE9V7",
         startDate: "26 Mar, 2023",
         endDate: "31 Mar, 2023",
         description: "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller offshore islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan to the southeast. It is renowned for its highly developed arts, including traditional and modern dance, sculpture, painting, leather, metalworking, and music.",
@@ -153,6 +153,6 @@ export default [
         description: "Krabi is the capital of and main town in Krabi Province, on the west coast of southern Thailand, where the Krabi River flows into Phang Nga Bay. Much of the province has been given over to several national parks. Top destinations are Hat Noppharat Thara - Mu Ko Phi Phi National Park, Ao Nang, Railay, and Ko Phi Phi.",
         imageUrl: "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1139&q=80",
         altText: "Thai passenger boats lined up along a beach with towering limestone cliffs and blue ocean waters behind them",
-        wikiLink: "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+        wikiLink: "https://en.wikipedia.org/wiki/Krabi_province"
     }
 ]

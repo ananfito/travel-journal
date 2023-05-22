@@ -13,6 +13,14 @@ My solution to the 'Travel Journal' solo project from Module 11 (React Basics) o
 
 ## Overivew
 
+This project is created with React as part of the coursework for Scrimba.com's Frontend Career path. It makes use of the `.map()` method and uses `prop` to pass properties down from imported data to the components.
+
+Requirements: 
+
+- Follow the [Figma design](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?type=design&node-id=0-1&t=XIMkRnsOXiu0lB3z-0) specfications
+- Use a data array in a separate .js file
+- Use `.map()` and `props`
+
 ## My Process
 
 ### Built with
