@@ -36,7 +36,7 @@ Requirements:
 
 ## Status
 
-WORK-IN-PROGRESS. Check back for updates.
+A live version of this project can be viewed at: https://travel-journal-5d0577.netlify.app/. 
 
 ## Connect
 
