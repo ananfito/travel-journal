@@ -1,9 +1,20 @@
 import './App.css'
+import Header from "./Header"
+import Place from "./Place"
+import data from "./data.js"
 
 function App() {
+  const cards = data.map(place => {
+    return (
+      <Place key={place.id} place={place} />
+    )
+  })
   return (
     <div>
-      <h1>This is my travel journal.</h1>
+      <Header />
+      <div className='cards'>
+        {cards}
+      </div>
     </div>
   )
 }
