@@ -23,6 +23,12 @@ Requirements:
 
 ## My Process
 
+I built this project locally using `npm create vite@latest`. Once the project files were setup, I removed the unnecessary components and information that come with the demo built (e.g., the React & Vite logos and links). Then I set about building and styling the travel journal according to the project specfications. 
+
+First, I started by building and styling the React components with some demo data. This was data that was included in the original template files from Scrimba.com, but the ultimate goal of the project is to personalize it to your own travels. However, using the demo data helped me ensure the build met the project specfications before I spent time collecting the specfic data related to my own travels. 
+
+This part was the most tedious part of the project -- since I had to manually collect links, descriptions, etc. related to my own travels. However, because of how `props` work in React once I replaced the demo data in `data.js` with my actual data the site 'automatically' updated with the new data and I was done.
+
 ### Built with
 
 - HTML
