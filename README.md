@@ -24,7 +24,7 @@ My solution to the 'Travel Journal' solo project from Module 11 (React Basics) o
 
 ## Screenshot
 
-![]()
+![Webpage featuring a header at the top with a red background and white text that reads 'my travel journal.' Below the header is a list of travel destinations with an image on the left and destination information on the right.](screenshot_travel-journal.png)
 
 ## Status
 
