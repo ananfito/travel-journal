@@ -38,7 +38,13 @@ This part was the most tedious part of the project -- since I had to manually co
 
 ## Screenshot
 
-![Webpage featuring a header at the top with a red background and white text that reads 'my travel journal.' Below the header is a list of travel destinations with an image on the left and destination information on the right.](screenshot_travel-journal.png)
+### Desktop
+
+![Webpage featuring a header at the top with a red background and white text that reads 'my travel journal.' Below the header is a list of travel destinations with an image on the left and destination information on the right.](screenshot_travel-journal_desktop.png)
+
+### Mobile
+
+![Mobile-friendly webpage featuring a header at the top with a red background and white text that reads 'my travel journal.' Below the header is a list of travel destinations in a single column. The destination image sits above the designation information.](screanshot_travel-journal_mobile.png)
 
 ## Status
 
