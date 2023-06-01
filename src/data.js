@@ -26,7 +26,7 @@ export default [
     {
         id: 3,
         title: "Llanfair...gogogoch",
-        location: "Whales",
+        location: "Wales",
         googleMapsUrl: "https://goo.gl/maps/jwqNmXx4qsKhMjeE8",
         startDate: "14 Jun, 2016",
         endDate: "30 Jun, 2016",
